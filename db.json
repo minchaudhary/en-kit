@@ -169,5 +169,57 @@
             "incharge": "Sushan Thapa",
             "pic": "bonfire"
         }
+    ],
+    "surveyors": [
+        {
+            "code": "S1001",
+            "title": "Sushan Thapa",
+            "branch": "Head Office",
+            "mobile_no": "9851189770",
+            "phone_no": "014200000",
+            "email": "susuhan@rbcl.com.np",
+            "note": "",
+            "pic": "bonfire"
+        },
+        {
+            "code": "S1001",
+            "title": "Sushan Thapa",
+            "branch": "Head Office",
+            "mobile_no": "9851189770",
+            "phone_no": "014200000",
+            "email": "susuhan@rbcl.com.np",
+            "note": "",
+            "pic": "bonfire"
+        },
+        {
+            "code": "S1001",
+            "title": "Sushan Thapa",
+            "branch": "Head Office",
+            "mobile_no": "9851189770",
+            "phone_no": "014200000",
+            "email": "susuhan@rbcl.com.np",
+            "note": "",
+            "pic": "bonfire"
+        },
+        {
+            "code": "S1001",
+            "title": "Sushan Thapa",
+            "branch": "Head Office",
+            "mobile_no": "9851189770",
+            "phone_no": "014200000",
+            "email": "susuhan@rbcl.com.np",
+            "note": "",
+            "pic": "bonfire"
+        },
+        {
+            "code": "S1001",
+            "title": "Sushan Thapa",
+            "branch": "Head Office",
+            "mobile_no": "9851189770",
+            "phone_no": "014200000",
+            "email": "susuhan@rbcl.com.np",
+            "note": "",
+            "pic": "bonfire"
+        }
     ]
 }
