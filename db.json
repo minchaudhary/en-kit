@@ -1,4 +1,94 @@
 {
+    "bod": [
+        {
+            "code": "BOD01",
+            "title": "Kamal Kumar Shrestha",
+            "designation": "Chairman",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "",
+            "pic": "BOD01.jpg"
+        },
+        {
+            "code": "BOD02",
+            "title": "Shreelal Poudyal",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "shreelal@rbcl.com.np",
+            "note": "Deputy Secretary, Ministry of finance",
+            "pic": "BOD02.jpg"
+        },
+        {
+            "code": "BOD03",
+            "title": "Shivaram Mishra",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "Acting Chief Manager, NB Bank",
+            "pic": "BOD03.jpg"
+        },
+        {
+            "code": "BOD04",
+            "title": "Om Krishna Shrestha",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "Deputy Chief Officer, EPF",
+            "pic": "BOD04.jpg"
+        },
+        {
+            "code": "BOD05",
+            "title": "Dr. Balaram Pathak",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "",
+            "pic": "BOD05.jpg"
+        },
+        {
+            "code": "BOD06",
+            "title": "Ashok Kumar Upreti",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "",
+            "pic": "BOD06.jpg"
+        },
+        {
+            "code": "BOD07",
+            "title": "Bir Bikram Rayamajhi",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "CEO, RBCL",
+            "pic": "BOD07.jpg"
+        },
+        {
+            "code": "BOD08",
+            "title": "Krishna Mani Acharya",
+            "designation": "Board Member",
+            "branch": "Head Office",
+            "mobile_no": "N/A",
+            "phone_no": "N/A",
+            "email": "kamal@rbcl.com.np",
+            "note": "Company Secretary, RBCL",
+            "pic": "BOD08.jpg"
+        }
+    ],
     "branches": [
         {
             "code": "01",
@@ -182,7 +272,7 @@
             "pic": "bonfire"
         },
         {
-            "code": "S1001",
+            "code": "S1002",
             "title": "Sushan Thapa",
             "branch": "Head Office",
             "mobile_no": "9851189770",
@@ -192,7 +282,7 @@
             "pic": "bonfire"
         },
         {
-            "code": "S1001",
+            "code": "S1003",
             "title": "Sushan Thapa",
             "branch": "Head Office",
             "mobile_no": "9851189770",
@@ -202,7 +292,7 @@
             "pic": "bonfire"
         },
         {
-            "code": "S1001",
+            "code": "S1004",
             "title": "Sushan Thapa",
             "branch": "Head Office",
             "mobile_no": "9851189770",
