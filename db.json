@@ -2,91 +2,69 @@
     "bod": [
         {
             "code": "BOD01",
-            "title": "Kamal Kumar Shrestha",
+            "title": "Mr. Umesh Chandra Upadhayaya",
             "designation": "Chairman",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
-            "email": "kamal@rbcl.com.np",
+            "email": "info@rbcl.com.np",
             "note": "",
             "pic": "BOD01.jpg"
         },
         {
             "code": "BOD02",
-            "title": "Shreelal Poudyal",
+            "title": "Mr. Than Prasad Pangyani",
             "designation": "Board Member",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
-            "email": "shreelal@rbcl.com.np",
-            "note": "Deputy Secretary, Ministry of finance",
+            "email": "ifo@rbcl.com.np",
+            "note": "Ministry of Finance",
             "pic": "BOD02.jpg"
         },
         {
             "code": "BOD03",
-            "title": "Shivaram Mishra",
+            "title": "Mr. Bijaya Kumar Shrestha",
             "designation": "Board Member",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
             "email": "kamal@rbcl.com.np",
-            "note": "Acting Chief Manager, NB Bank",
+            "note": "Chief Manager, Employment Provident Fund",
             "pic": "BOD03.jpg"
         },
         {
             "code": "BOD04",
-            "title": "Om Krishna Shrestha",
+            "title": "Mr. Prakash Kumar Adhikari",
             "designation": "Board Member",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
             "email": "kamal@rbcl.com.np",
-            "note": "Deputy Chief Officer, EPF",
+            "note": "Act Assistant Chief Executive Officer, Nepal Bank Ltd",
             "pic": "BOD04.jpg"
         },
         {
             "code": "BOD05",
-            "title": "Dr. Balaram Pathak",
+            "title": "Mr. Ashok Kumar Upreti",
             "designation": "Board Member",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
             "email": "kamal@rbcl.com.np",
-            "note": "",
+            "note": "Representative Public Shareholder",
             "pic": "BOD05.jpg"
         },
         {
             "code": "BOD06",
-            "title": "Ashok Kumar Upreti",
-            "designation": "Board Member",
-            "branch": "Head Office",
-            "mobile_no": "N/A",
-            "phone_no": "N/A",
-            "email": "kamal@rbcl.com.np",
-            "note": "",
-            "pic": "BOD06.jpg"
-        },
-        {
-            "code": "BOD07",
-            "title": "Bir Bikram Rayamajhi",
-            "designation": "Board Member",
-            "branch": "Head Office",
-            "mobile_no": "N/A",
-            "phone_no": "N/A",
-            "email": "kamal@rbcl.com.np",
-            "note": "CEO, RBCL",
-            "pic": "BOD07.jpg"
-        },
-        {
-            "code": "BOD08",
-            "title": "Krishna Mani Acharya",
+            "title": "Niranjan Acharya",
             "designation": "Board Member",
             "branch": "Head Office",
             "mobile_no": "N/A",
             "phone_no": "N/A",
             "email": "kamal@rbcl.com.np",
             "note": "Company Secretary, RBCL",
-            "pic": "BOD08.jpg"
+            "pic": "BOD06.jpg"
         }
     ],
     "branches": [
@@ -292,10 +270,10 @@
             "pic": "bonfire"
         }
     ],
-    "calculator":{
-        "Agriculture or Forestry Vehicle" : {
-            "CM":{
-                "Government":[
+    "calculator": {
+        "Agriculture or Forestry Vehicle": {
+            "CM": {
+                "Government": [
                     {
                         "code": "S1001",
                         "title": "Sushan Thapa",
@@ -307,9 +285,9 @@
                         "pic": "bonfire"
                     }
                 ],
-                "Non-Government":""
+                "Non-Government": ""
             },
-            "TP":""
+            "TP": ""
         }
     }
 }
